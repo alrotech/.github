@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Paid Support for Payment Modules
-    url: https://modstore.pro/
-    about: Please, create the ticket via special form on the marketplace website to get professional support.
+  - name: Payment Modules Support
+    url: https://modstore.pro/authors/alroniks
+    about: Please, create the ticket via the marketplace website to get professional support.
   - name: Premium MODX Support
-    url: mailto:ivan@klimchuk.com
-    about: Please, write me, if yoy need professional help with you MODX installation.
+    url: https://alroniks.com
+    about: Premium MODX Support for agencies and independent developers from MODX core developer.
