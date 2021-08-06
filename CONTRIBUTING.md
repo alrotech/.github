@@ -1,5 +1,7 @@
 # Overall Project Idea
 
+> This project has a [code of conduct](CODE_OF_CONDUCT.md). By interacting with this repository, organization, or community you agree to abide by its terms.
+
 // here is should be technical documentation about contributing etc. not about client
 
 ## Structure Conventions
