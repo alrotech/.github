@@ -2,6 +2,8 @@
 
 This special repository contains files, which helps to organize health in the community, according to [the GitHub recommendations](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file).
 
+> This project has a [code of conduct](CODE_OF_CONDUCT.md). By interacting with this repository, organization, or community you agree to abide by its terms.
+
 ## Contributing
 If you want to contribute please read the [Contributing guidelines](CONTRIBUTING.md).
 
