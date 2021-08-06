@@ -7,6 +7,12 @@ This special repository contains files, which helps to organize health in the co
 ## Contributing
 If you want to contribute please read the [Contributing guidelines](CONTRIBUTING.md).
 
+## Support
+If you need support, we provide several ways to get it, including professional support plans. Please, read out our [Support policy](SUPPORT.md).
+
+## Secutiry
+We are very attentive to the safety of data and security in general, so we constantly update our software and extras to ensure an acceptable level of security. Read more about this in our [Secutiry policy](SECURITY.md).
+
 ## License
 
 All code of the packages under this organization licensed under MIT License for easier usage in the future, when I will decide to share it. 
