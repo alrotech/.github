@@ -8,6 +8,16 @@
 
 about internal ctrucure of the packages
 
+## Conventional commits
+
+How to insall 
+
+npm install --save-dev @commitlint/{config-conventional,cli}
+echo "module.exports = {extends: ['@commitlint/config-conventional']}" > commitlint.config.js
+npm install husky --save-dev
+npx husky install
+npx husky add .husky/commit-msg 'npx --no-install commitlint --edit "$1"'
+
 - about and status
     - marketplace link
 
